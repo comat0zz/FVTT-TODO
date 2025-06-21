@@ -90,13 +90,13 @@
 |---|---|---|
 | V12+?, work | Локализация Wicked Ones | [тык](https://github.com/comat0zz/wicked-ones-rus) |
 | V13, work | Новая Эра: Мортум | [тык](https://github.com/comat0zz/new-era-mortum) |
-| V12 -> V13, update | Ёкарный бабай! | [тык](https://github.com/comat0zz/fvtt_yokarny_babay) |
 | V10 -> V13, update| Встретимся в ADU | [тык](https://github.com/comat0zz/fvtt_see_you_in_hell) |
 | V10 -> V13, update| Пока мы здесь | [тык](https://github.com/comat0zz/fvtt_pmz) |
 | V1X, plans | Heroes Glory | [тык](https://vk.com/heroesglorygame) |
 | V1X, plans | Игрущки | [тык](https://vk.com/studio_prostoe) | 
 | V1X, plans | Заклятье Черного мага | [тык](https://vk.com/tmamrak) |
 | V13, done |  Grand Hotel | [тык](https://github.com/comat0zz/fvtt-grand-hotel) |
+| V13, done | Ёкарный бабай! | [тык](https://github.com/comat0zz/fvtt_yokarny_babay) |
 | V13, done |    Космопарни   | [тык](https://github.com/comat0zz/fvtt-cosmoboys) |
 | V10, done | Necrobiozz | [тык](https://github.com/comat0zz/FVTT10_Necrobiozz) |
 | V10, pause | Грань Вселенной. Быстрый старт. 3 ред. | [тык](https://github.com/comat0zz/fvtt_eotv) |
